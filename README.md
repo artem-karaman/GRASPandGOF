@@ -4,7 +4,7 @@
 
 [Шаблоны разработки ПО. Шаблоны GRASP](https://www.youtube.com/watch?v=8wRQ92Hg2bY&t=3s)
 
-- [x] Information Expert
+- [x] [Information Expert](#information-expert)
 - [x] Creator
 - [ ] Controller
 - [ ] Low coupling
