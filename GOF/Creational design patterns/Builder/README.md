@@ -9,3 +9,5 @@
 
 ### Решение
 - Паттерн Строитель предлагает вынести конструирование объекта за пределы его собственного класса, поручив это дело отдельным объектам, называемым строителями.
+
+![Структура паттерна](https://github.com/artem-karaman/GRASPandGOF/blob/master/GOF/Creational%20design%20patterns/Builder/img/builder_structure.png?raw=true)
