@@ -5,8 +5,8 @@
 [Шаблоны разработки ПО. Шаблоны GRASP](https://www.youtube.com/watch?v=8wRQ92Hg2bY&t=3s)
 
 - [x] [Information Expert](#information-expert)
-- [x] Creator(#information-expert)
-- [x] Controller()
+- [x] [Creator](#creator)
+- [x] [Controller](#controller)
 - [ ] Low coupling
 - [ ] High cohesion
 - [ ] Polymorphism
