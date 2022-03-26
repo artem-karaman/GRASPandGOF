@@ -17,9 +17,8 @@
 <div align="center">
   
   
-![Decorator drawio](https://user-images.githubusercontent.com/19500536/160259467-cff91bf5-e142-45e5-a3bd-4c27f6eb722b.svg)
-  
-  
+![Decorator drawio](https://user-images.githubusercontent.com/19500536/160259968-c9ef8851-f98e-4cff-94d8-ebdd58329206.svg)
+
 </div>
 
 ### Источник
