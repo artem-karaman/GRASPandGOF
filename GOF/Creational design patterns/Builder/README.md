@@ -14,8 +14,12 @@
 [Builder Stucture - Code](https://github.com/artem-karaman/Unity-Design-Pattern/blob/master/Assets/Creational%20Patterns/Builder%20Pattern/Structure/BuilderStructure.cs)
 
 
-
+<div id="diagram" align="center">
+  
+  
 ![Builder drawio](https://user-images.githubusercontent.com/19500536/160257801-b5265909-a664-4db7-b8fd-8eed1eb4ee68.svg)
-
+  
+  
+</div>
 ### Подробнее 
 TODO
