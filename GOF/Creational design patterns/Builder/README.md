@@ -11,7 +11,7 @@
 - Паттерн Строитель предлагает вынести конструирование объекта за пределы его собственного класса, поручив это дело отдельным объектам, называемым строителями.
 
 ### Струтура паттерна
-TODO
+[Builder Stucture](https://github.com/artem-karaman/Unity-Design-Pattern/blob/master/Assets/Creational%20Patterns/Builder%20Pattern/Structure/BuilderStructure.cs)
 
 ### Подробнее 
 TODO
