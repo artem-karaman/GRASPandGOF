@@ -1,0 +1,17 @@
+{
+    "name": "Builder",
+    "rootNamespace": "",
+    "references": [
+        "Unity.VectorGraphics",
+        "Unity.TextMeshPro"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
