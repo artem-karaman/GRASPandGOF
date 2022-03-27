@@ -11,8 +11,9 @@
 - Паттерн Строитель предлагает вынести конструирование объекта за пределы его собственного класса, поручив это дело отдельным объектам, называемым строителями.
 
 ### Струтура паттерна
-[Builder Stucture - Code](https://github.com/artem-karaman/Unity-Design-Pattern/blob/master/Assets/Creational%20Patterns/Builder%20Pattern/Structure/BuilderStructure.cs)
-
+- [Builder Stucture - Code](https://github.com/artem-karaman/Unity-Design-Pattern/blob/master/Assets/Creational%20Patterns/Builder%20Pattern/Structure/BuilderStructure.cs)
+- [Demo code](https://github.com/artem-karaman/GRASPandGOF/tree/master/GOF/Creational%20design%20patterns/Builder/source/Builder)
+- [WebGL build with demo](https://artem-karaman.github.io/GRASPandGOF/Builder)
 
 <div id="diagram" align="center">
   
