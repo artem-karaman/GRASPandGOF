@@ -19,10 +19,10 @@ public class MainBehaviour : MonoBehaviour
     {
         _director = new Director();
 
-        _constructHorizontalScrollButton?.onClick.AddListener(ConstructHorizontalScrollContent);
-        _constructVerticalScrollButton?.onClick.AddListener(ConstructVerticalScrollContent);
-        _addItem?.onClick.AddListener(AddItemtoScrollContent);
-        _clearContent?.onClick.AddListener(ClearContent);
+        _constructHorizontalScrollButton.onClick.AddListener(ConstructHorizontalScrollContent);
+        _constructVerticalScrollButton.onClick.AddListener(ConstructVerticalScrollContent);
+        _addItem.onClick.AddListener(AddItemtoScrollContent);
+        _clearContent.onClick.AddListener(ClearContent);
     }
 
     private void ConstructHorizontalScrollContent()
@@ -41,7 +41,7 @@ public class MainBehaviour : MonoBehaviour
 
     private void AddItemtoScrollContent()
     {
-        _currentScrollContent.AddItemToScroll(_item.gameObject);
+        _currentScrollContent.AddItemToScrollContent(_item.gameObject);
     }
 
     private void ClearContent()

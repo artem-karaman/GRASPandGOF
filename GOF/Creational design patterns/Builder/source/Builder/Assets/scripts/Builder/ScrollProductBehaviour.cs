@@ -1,9 +1,8 @@
-using System;
 using UnityEngine;
 
 namespace Builder
 {
-    public class ScrollProductBehaviour : IScrollProduct, IDisposable
+    public class ScrollProductBehaviour : IScrollProduct
     {
         private Transform _content;
 
@@ -12,12 +11,12 @@ namespace Builder
             _content = content;
         }
 
-        public void AddItemToScroll(GameObject item)
+        public void AddItemToScrollContent(GameObject item)
         {
             if (item == null)
                 return;
 
-            var prefab = UnityEngine.Object.Instantiate(item);
+            var prefab = Object.Instantiate(item);
             prefab.transform.SetParent(_content, false);
         }
 

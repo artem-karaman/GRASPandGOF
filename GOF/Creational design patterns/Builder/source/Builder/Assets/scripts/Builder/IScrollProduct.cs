@@ -3,8 +3,8 @@ using UnityEngine;
 
 namespace Builder
 {
-    public interface IScrollProduct : IDisposable
+    public interface IScrollProduct: IDisposable
     {
-        void AddItemToScroll(GameObject item);
+        void AddItemToScrollContent(GameObject item);
     }
 }
