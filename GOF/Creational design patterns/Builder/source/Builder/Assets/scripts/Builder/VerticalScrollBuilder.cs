@@ -28,6 +28,7 @@ namespace Builder
             verticalLayoutGroup.childControlHeight = false;
             verticalLayoutGroup.childControlWidth = false;
             verticalLayoutGroup.spacing = 10;
+            verticalLayoutGroup.padding = new RectOffset(5, 5, 5, 5);
         }
 
         public void AddContentSizeFitter()

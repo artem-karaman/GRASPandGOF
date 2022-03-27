@@ -24,6 +24,7 @@ namespace Builder {
             horizontalLayoutGroup.childControlHeight = false;
             horizontalLayoutGroup.childControlWidth = false;
             horizontalLayoutGroup.spacing = 10;
+            horizontalLayoutGroup.padding = new RectOffset(5, 5, 5, 5);
         }
 
         public void PrepareRectTransform()
