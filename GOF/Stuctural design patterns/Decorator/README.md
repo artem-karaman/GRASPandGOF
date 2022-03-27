@@ -12,8 +12,8 @@
 
 ### Струтура паттерна
 
-[Decorator structure code](https://github.com/artem-karaman/Unity-Design-Pattern/blob/master/Assets/Structural%20Patterns/Decorator%20Pattern/Structure/DecoratorStructure.cs)
-[Demo](https://github.com/artem-karaman/GRASPandGOF/tree/master/GOF/Stuctural%20design%20patterns/Decorator/source/Decorator)
+- [Decorator structure code](https://github.com/artem-karaman/Unity-Design-Pattern/blob/master/Assets/Structural%20Patterns/Decorator%20Pattern/Structure/DecoratorStructure.cs)
+- [Demo](https://github.com/artem-karaman/GRASPandGOF/tree/master/GOF/Stuctural%20design%20patterns/Decorator/source/Decorator)
 
 <div align="center">
   
