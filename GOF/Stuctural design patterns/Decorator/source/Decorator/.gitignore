@@ -41,7 +41,6 @@ sysinfo.txt
 .BAK
 
 
-*/Assets/TextMesh Pro/*
-*/Library/*
-*/Logs/*
-*/obj/*
+# TextMesh Pro files
+[Aa]ssets/TextMesh*Pro/
+[Aa]ssets/TextMesh*Pro*
