@@ -14,7 +14,8 @@
 
 <div id="diagram" align="center">
   
- 
+ ![Composite drawio](https://user-images.githubusercontent.com/19500536/160926326-20a54179-be6d-4538-bca8-0289679a77f4.svg)
+
   
 </div>
 
