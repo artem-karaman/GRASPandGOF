@@ -9,8 +9,8 @@
 
 ### Струтура паттерна
 - [Composite Stucture - Code](https://github.com/artem-karaman/Unity-Design-Pattern/blob/master/Assets/Structural%20Patterns/Composite%20Pattern/Structure/CompositeStructure.cs)
-- [Demo code]()
-- [WebGL build with demo]()
+- [Demo code](https://github.com/artem-karaman/GRASPandGOF/tree/3-composite/GOF/Stuctural%20design%20patterns/Composite/Composite)
+- [WebGL build with demo](https://artem-karaman.github.io/GRASPandGOF/Composite/)
 
 <div id="diagram" align="center">
   
